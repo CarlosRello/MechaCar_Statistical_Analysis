@@ -2,7 +2,7 @@
 Analysis of automotive manufacturing
 
 Deliverable 1
-![Alt Text](https://github.com/CarlosRello/MechaCar_Statistical_Analysis/Resources/Mech_stat.png)
+![Alt Text](https://github.com/CarlosRello/MechaCar_Statistical_Analysis/blob/main/Resources/Mech_stat.png)
 
 1.- Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
@@ -22,9 +22,9 @@ Yes it does, The model has a multiple R-squared of 0.7149, which tells us that i
 
 ## Summary Statistics on Suspension Coils
 
-![Alt Text](https://github.com/CarlosRello/MechaCar_Statistical_Analysis/Resources/Total_summary.png)
+![Alt Text](https://github.com/CarlosRello/MechaCar_Statistical_Analysis/blob/main/Resources/Total_summary.png)
 
-![Alt Text](https://github.com/CarlosRello/MechaCar_Statistical_Analysis/Resources/lot_summary.png)
+![Alt Text](https://github.com/CarlosRello/MechaCar_Statistical_Analysis/blob/main/Resources/lot_summary.png)
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch.
 
@@ -34,9 +34,9 @@ Does the current manufacturing data meet this design specification for all manuf
 
 ## T-Tests on Suspension Coils
 
-![Alt Text](https://github.com/CarlosRello/MechaCar_Statistical_Analysis/Resources/t-test.png)
+![Alt Text](https://github.com/CarlosRello/MechaCar_Statistical_Analysis/blob/main/Resources/t-test.png)
 
-![Alt Text](https://github.com/CarlosRello/MechaCar_Statistical_Analysis/Resources/t-test_subset.png)
+![Alt Text](https://github.com/CarlosRello/MechaCar_Statistical_Analysis/blob/main/Resources/t-test_subset.png)
 
 Only when measuring the Lot 3 mean PSI difference to the 1500 population standard, provided a lower mean value. Statistical significance difference was observed, therefore rejecting null hypothesis.
 
